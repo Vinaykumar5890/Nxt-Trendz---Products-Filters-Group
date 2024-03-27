@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.simillar-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-right: 50px;
+}
+.simillar-rating {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+.simillar-star {
+  height: 15px;
+  width: 15px;
+}
+.simillar-button {
+  background-color: #3b82f6;
+  height: 30px;
+  width: 70px;
+  border-width: 0px;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 40px;
+}
+.simillar-bottom-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.simillar-price {
+  color: #12022f;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+.simillar-img {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
+.simillar-brand {
+  color: #616e7c;
+  font-size: 20px;
+  font-weight: normal;
+  font-family: 'Roboto';
+}
+.simillar-title {
+  color: #171f46;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
